@@ -1,0 +1,45 @@
+nav{
+    margin-left: 400px;
+    margin-bottom: 50px;
+}
+h1{
+    text-align: center;
+    color:coral;
+
+}
+.p_home{
+    margin-left: 600px;
+    margin-right: 600px;
+    text-align: justify;
+    font-weight: bold;
+    color: wheat;
+}
+.services{
+    margin-top: 70px;
+    margin-left: 300px;
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+form{
+    margin: 0 auto; 
+    width:500px;
+    background-color: black;
+    color: blanchedalmond;
+
+}
+textarea{
+	height: 100px;	
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bgrnd{
+    background-image: url("./images/1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 45% 100%;
+}
